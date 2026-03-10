@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="50" viewBox="0 0 40 50">
+  <!-- Teardrop/pin shape -->
+  <path d="M20 0 C8.95 0 0 8.95 0 20 C0 34 20 50 20 50 C20 50 40 34 40 20 C40 8.95 31.05 0 20 0Z" fill="#E8730C" stroke="#8B1A1A" stroke-width="1.5"/>
+  <!-- Inner lotus circle -->
+  <circle cx="20" cy="18" r="10" fill="#FDF6EC" stroke="#DEC49A" stroke-width="1"/>
+  <!-- Simple lotus petals -->
+  <path d="M20 10 C18 14 15 16 15 18 C15 20 17.5 20 20 18 C22.5 20 25 20 25 18 C25 16 22 14 20 10Z" fill="#E8A0BF" opacity="0.8"/>
+  <path d="M14 16 C16 17 17 19 18 20 C17 21 15 21 14 20 C13 19 13 17 14 16Z" fill="#E8A0BF" opacity="0.6"/>
+  <path d="M26 16 C24 17 23 19 22 20 C23 21 25 21 26 20 C27 19 27 17 26 16Z" fill="#E8A0BF" opacity="0.6"/>
+</svg>

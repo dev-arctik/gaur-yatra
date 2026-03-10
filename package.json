@@ -1,0 +1,25 @@
+{
+  "name": "gaur_yatra",
+  "version": "1.0.0",
+  "description": "An interactive website that visualizes **Lord Chaitanya Mahaprabhu's pilgrimage through Vraj Bhumi** (the Vrindavan/Mathura region), as described in **Caitanya Caritamrita Madhya Lila Chapter 18**.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-leaflet": "^5.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.1",
+    "@vitejs/plugin-react": "^5.1.4",
+    "gh-pages": "^6.3.0",
+    "vite": "^7.3.1"
+  }
+}
