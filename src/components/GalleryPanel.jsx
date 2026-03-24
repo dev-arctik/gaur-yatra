@@ -51,16 +51,18 @@ export default function GalleryPanel({ selectedLocationId }) {
       {/* Section A: Photo Carousel */}
       <div className="p-3">
         {images.length === 0 ? (
-          // No photos placeholder
-          <div className="aspect-[4/3] rounded-lg border-2 border-dashed border-lotus-pink bg-saffron-pale flex items-center justify-center">
-            <div className="text-center p-4">
-              <p className="font-crimson text-sm text-brown-heading font-semibold">
-                Photos coming soon
-              </p>
-              <p className="font-crimson text-xs text-brown-text opacity-60 mt-1">
-                Hare Krishna
-              </p>
-            </div>
+          // Google Maps embed when no photos available
+          <div className="aspect-[4/3] rounded-lg overflow-hidden">
+            <iframe
+              src={`https://maps.google.com/maps?q=${location.lat},${location.lng}&z=15&output=embed`}
+              width="100%"
+              height="100%"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              title={`Map of ${location.name}`}
+            />
           </div>
         ) : (
           // Photo carousel

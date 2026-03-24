@@ -8,11 +8,11 @@ export const locations = [
     name: "Arit-grama (Arith)",
     nameDevanagari: "अरिट ग्राम",
     journeyOrder: 1,
-    lat: 27.5245,
-    lng: 77.4910,
+    lat: 27.5227,
+    lng: 77.4945,
     verses: ["18.3"],
-    description: "Arit-grama, also known as Arith, is the sacred village where Sri Chaitanya Mahaprabhu began His tour of Vraj Bhumi. According to the Caitanya Caritamrita, this is the location where Radha and Krishna performed Their Rasa dance. Mahaprabhu was overwhelmed with ecstatic love upon arriving here.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5245,77.4910",
+    description: "Arit-grama, also known as Arith, is the sacred village where Sri Chaitanya Mahaprabhu began His tour of Vraj Bhumi. According to the Caitanya Caritamrita, this is the location where Radha and Krishna performed Their Rasa dance. Mahaprabhu was overwhelmed with ecstatic love upon arriving here. (Note: Exact location uncertain — marker placed near Radha Kund as an approximate reference.)",
+    googleMapsUrl: "https://www.google.com/maps/place/Nitai+Gour+seva+Ashram/@27.5227486,77.494473,17z",
     images: []
   },
   {
@@ -20,11 +20,11 @@ export const locations = [
     name: "Radha-kunda",
     nameDevanagari: "राधा कुण्ड",
     journeyOrder: 2,
-    lat: 27.5253,
-    lng: 77.4914,
+    lat: 27.5255,
+    lng: 77.4909,
     verses: ["18.4", "18.5", "18.6", "18.7", "18.8", "18.9", "18.10", "18.11", "18.12", "18.13", "18.14"],
     description: "Radha-kunda is considered the most sacred lake in all of Vrindavan, personally identified by Sri Chaitanya Mahaprabhu during this visit. It is the bathing place of Srimati Radharani and is regarded as non-different from Her. Mahaprabhu bathed here and exhibited extreme ecstasy upon recognizing this supremely holy site.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5253,77.4914",
+    googleMapsUrl: "https://www.google.com/maps/place/Radha+Kund,+Govardhan/@27.525081,77.4899866,18z",
     images: []
   },
   {
@@ -32,11 +32,11 @@ export const locations = [
     name: "Shyama-kunda",
     nameDevanagari: "श्यामा कुण्ड",
     journeyOrder: 3,
-    lat: 27.5250,
-    lng: 77.4908,
+    lat: 27.5252,
+    lng: 77.4925,
     verses: ["18.5", "18.6"],
     description: "Shyama-kunda is Lord Krishna's own sacred lake, located immediately adjacent to Radha-kunda. Sri Chaitanya Mahaprabhu identified this lake as well during His ecstatic visit, and the two kundas together represent the eternal divine couple Radha and Krishna. The waters here are considered supremely purifying.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5250,77.4908",
+    googleMapsUrl: "https://www.google.com/maps/place/Shyam+Kund/@27.5252375,77.4899095,17z",
     images: []
   },
   {
@@ -47,8 +47,8 @@ export const locations = [
     lat: 27.5119,
     lng: 77.4787,
     verses: ["18.15"],
-    description: "Sumanas Lake is one of the sacred bodies of water on the Govardhana Hill circumambulation path. Mahaprabhu visited this lake as part of His parikrama of Govardhana, feeling deep ecstasy at each holy site connected with Krishna's pastimes. The lake is associated with ancient Vedic sages who performed austerities here.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5119,77.4787",
+    description: "Sumanas Lake is one of the sacred bodies of water on the Govardhana Hill circumambulation path. Mahaprabhu visited this lake as part of His parikrama of Govardhana, feeling deep ecstasy at each holy site connected with Krishna's pastimes. The lake is associated with ancient Vedic sages who performed austerities here. (Note: Exact identification uncertain — this may correspond to present-day Kusum Sarovar on the Govardhan parikrama path.)",
+    googleMapsUrl: "https://www.google.com/maps/place/Kusum+Sarovar,+Govardhan/@27.5119,77.4761251,17z",
     images: []
   },
   {
@@ -56,8 +56,8 @@ export const locations = [
     name: "Govardhana Hill",
     nameDevanagari: "गोवर्धन गिरि",
     journeyOrder: 5,
-    lat: 27.4966,
-    lng: 77.4626,
+    lat: 27.4730,
+    lng: 77.4440,
     verses: [
       "18.15", "18.16", "18.17", "18.18", "18.19", "18.20", "18.21", "18.22",
       "18.23", "18.24", "18.25", "18.26", "18.27", "18.28", "18.29", "18.30",
@@ -65,7 +65,7 @@ export const locations = [
       "18.39", "18.40", "18.41", "18.42", "18.43", "18.44", "18.45"
     ],
     description: "Govardhana Hill is one of the most sacred sites in all of Vraj Bhumi, the hill that Lord Krishna lifted on His finger for seven days to protect the residents of Vrindavan from Indra's devastating rains. Sri Chaitanya Mahaprabhu performed a full parikrama of the entire hill while in a state of profound ecstatic love.",
-    googleMapsUrl: "https://maps.google.com/?q=27.4966,77.4626",
+    googleMapsUrl: "https://www.google.com/maps/place/Govardhan+hill/@27.472998,77.4234004,14z",
     images: []
   },
   {
@@ -73,11 +73,11 @@ export const locations = [
     name: "Govardhana Village",
     nameDevanagari: "गोवर्धन ग्राम",
     journeyOrder: 6,
-    lat: 27.4970,
-    lng: 77.4670,
+    lat: 27.4969,
+    lng: 77.4642,
     verses: ["18.17", "18.18", "18.19", "18.20", "18.21", "18.22"],
     description: "Govardhana Village is the principal settlement at the foot of Govardhana Hill, home to the famous Harideva temple. Sri Chaitanya Mahaprabhu visited the Harideva deity here and was overwhelmed with emotion upon beholding this ancient form of the Lord.",
-    googleMapsUrl: "https://maps.google.com/?q=27.4970,77.4670",
+    googleMapsUrl: "https://www.google.com/maps/place/Mandir+Shri+Thakur+Haridev+Ji+Maharaj,+Govardhan/@27.4966354,77.462405,17.55z",
     images: []
   },
   {
@@ -85,11 +85,11 @@ export const locations = [
     name: "Brahma-kunda",
     nameDevanagari: "ब्रह्म कुण्ड",
     journeyOrder: 7,
-    lat: 27.4970,
-    lng: 77.4650,
+    lat: 27.4972,
+    lng: 77.4641,
     verses: ["18.21"],
     description: "Brahma-kunda is a sacred lake on the Govardhana parikrama path associated with Lord Brahma, the creator. It is said that Brahma himself came here to offer prayers to Lord Krishna. Sri Chaitanya Mahaprabhu passed through this site during His circumambulation of Govardhana Hill.",
-    googleMapsUrl: "https://maps.google.com/?q=27.4970,77.4650",
+    googleMapsUrl: "https://www.google.com/maps/place/Brahma+Kunda/@27.4972182,77.46341,19z",
     images: []
   },
   {
@@ -97,11 +97,11 @@ export const locations = [
     name: "Annakuta-grama",
     nameDevanagari: "अन्नकूट ग्राम",
     journeyOrder: 8,
-    lat: 27.5070,
-    lng: 77.4530,
+    lat: 27.4681,
+    lng: 77.4501,
     verses: ["18.26", "18.27", "18.28", "18.29", "18.30"],
-    description: "Annakuta-grama is the village associated with the famous Annakuta festival, in which Lord Krishna instructed the residents of Vrindavan to offer a great mountain of food to Govardhana Hill rather than to Indra. Sri Chaitanya Mahaprabhu visited this place and felt deep connection with Krishna's childhood pastimes here.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5070,77.4530",
+    description: "Annakuta-grama (modern-day Aanyor/Aniyor) is the village associated with the famous Annakuta festival, in which Lord Krishna instructed the residents of Vrindavan to offer a great mountain of food to Govardhana Hill rather than to Indra. Sri Chaitanya Mahaprabhu visited this place and felt deep connection with Krishna's childhood pastimes here.",
+    googleMapsUrl: "https://www.google.com/maps/place/Aanyor,+Uttar+Pradesh/@27.4685061,77.4436642,16.3z",
     images: []
   },
   {
@@ -109,11 +109,11 @@ export const locations = [
     name: "Ganthuli-grama",
     nameDevanagari: "गाँठुली ग्राम",
     journeyOrder: 9,
-    lat: 27.4944,
-    lng: 77.4214,
+    lat: 27.4835,
+    lng: 77.4311,
     verses: ["18.29", "18.30", "18.31", "18.32", "18.33", "18.34", "18.35", "18.36"],
-    description: "Ganthuli-grama (modern Gantholi) is a village on the west side of Govardhana Hill where the Gopala deity was temporarily moved. Sri Chaitanya Mahaprabhu came here to see the Gopala deity and was overwhelmed with ecstatic love.",
-    googleMapsUrl: "https://maps.google.com/?q=27.4944,77.4214",
+    description: "Ganthuli-grama (modern Gantholi) is a village on the west side of Govardhana Hill where the Gopala deity (now Shri Nathaji in Nathdwara) was temporarily moved due to fear of Muslim soldiers. Sri Chaitanya Mahaprabhu came here to see the Gopala deity and was overwhelmed with ecstatic love. The village is named after the pastime where Sakhis tied (granthi = knot) Radha and Krishna's clothes together during Holi. The Gulal Kund here marks that sacred spot.",
+    googleMapsUrl: "https://www.google.com/maps/place/Gulal+Kund,+Gantholi/@27.4835273,77.4072706,14z",
     images: []
   },
   {
@@ -121,11 +121,11 @@ export const locations = [
     name: "Manasa-ganga",
     nameDevanagari: "मानस गंगा",
     journeyOrder: 10,
-    lat: 27.4960,
-    lng: 77.4630,
+    lat: 27.4983,
+    lng: 77.4654,
     verses: ["18.32"],
-    description: "Manasa-ganga is the sacred lake at the foot of Govardhana Hill, said to have been manifested by Lord Krishna from His mind (manasa). It is considered as holy as the Ganga river itself.",
-    googleMapsUrl: "https://maps.google.com/?q=27.4960,77.4630",
+    description: "Manasa-ganga (Manasi Ganga) is the sacred lake in the center of Govardhan town, said to have been manifested by Lord Krishna from His mind (manasa) after killing Vatsasura. It is the traditional starting and ending point of Govardhana parikrama. Sri Chaitanya Mahaprabhu bathed here before beginning His circumambulation of Govardhana Hill.",
+    googleMapsUrl: "https://www.google.com/maps/place/Manasi+Ganga/@27.4983,77.4654,17z",
     images: []
   },
   {
@@ -137,7 +137,7 @@ export const locations = [
     lng: 77.4407,
     verses: ["18.35"],
     description: "Govinda-kunda is the sacred lake where Lord Indra came to bathe and offer apologies to Krishna after being defeated by the Govardhana Hill episode. Krishna received the name 'Govinda' from Indra on this occasion.",
-    googleMapsUrl: "https://maps.google.com/?q=27.4686,77.4407",
+    googleMapsUrl: "https://www.google.com/maps/place/Govind+Kund,+Govardhan/@27.4685625,77.4381126,17z",
     images: []
   },
   {
@@ -148,8 +148,8 @@ export const locations = [
     lat: 27.6568,
     lng: 77.2690,
     verses: ["18.55", "18.56", "18.57"],
-    description: "Kamyavana, the 'forest of desires', is one of the twelve principal forests of Vrindavan and is associated with many of Krishna's transcendental pastimes. Sri Chaitanya Mahaprabhu visited this forest and experienced intense spiritual ecstasy.",
-    googleMapsUrl: "https://maps.google.com/?q=27.6568,77.2690",
+    description: "Kamyavana (modern-day Kaman, Rajasthan), the 'forest of desires', is one of the twelve principal forests of Vrindavan and is associated with many of Krishna's transcendental pastimes. Sri Chaitanya Mahaprabhu visited this forest and experienced intense spiritual ecstasy.",
+    googleMapsUrl: "https://www.google.com/maps/place/Kaman,+Rajasthan+321022",
     images: []
   },
   {
@@ -157,11 +157,11 @@ export const locations = [
     name: "Nandishvara (Nandgaon)",
     nameDevanagari: "नन्दीश्वर",
     journeyOrder: 13,
-    lat: 27.7167,
-    lng: 77.3833,
+    lat: 27.7113,
+    lng: 77.3828,
     verses: ["18.57"],
-    description: "Nandishvara, also known as Nandgaon, is the village of Nanda Maharaja — Lord Krishna's foster father. The large hill here is called Nanda-bhavan, where Krishna spent His childhood years.",
-    googleMapsUrl: "https://maps.google.com/?q=27.7167,77.3833",
+    description: "Nandishvara, also known as Nandgaon, is the village of Nanda Maharaja — Lord Krishna's foster father. The hill here is called Nandishwara Parvata, where Nanda Maharaja built his palace. Sri Chaitanya Mahaprabhu found deities of Nanda, Yashoda, and Krishna in a cave on this hill. The present-day Shri Nand Baba Temple (Nand Mahal) stands on this site.",
+    googleMapsUrl: "https://www.google.com/maps/place/Shri+Nand+Baba+Temple,+Nandgaon/@27.711257,77.3422798,13z",
     images: []
   },
   {
@@ -172,8 +172,8 @@ export const locations = [
     lat: 27.7200,
     lng: 77.3900,
     verses: ["18.58"],
-    description: "Pavana Lake (Pavana Sarovara) is the sacred lake near Nandgaon where Nanda Maharaja used to bring the young Krishna to bathe. Simply hearing the name of this lake or bathing in its waters purifies one of all sins.",
-    googleMapsUrl: "https://maps.google.com/?q=27.7200,77.3900",
+    description: "Pavana Lake (Pavan Sarovar) is the sacred lake at the base of Nandishwar Hill, north of Nandgaon on the highway to Kamyavana. Pilgrims traditionally bathe here before taking darshan at Nand Bhavana. Sri Chaitanya Mahaprabhu bathed here and then climbed the hill to speak to the people.",
+    googleMapsUrl: "https://www.google.com/maps/place/Pavan+Sarovar/@27.72,77.39,17z",
     images: []
   },
   {
@@ -181,11 +181,11 @@ export const locations = [
     name: "Khadiravana",
     nameDevanagari: "खदिरवन",
     journeyOrder: 15,
-    lat: 27.7012,
-    lng: 77.4354,
+    lat: 27.7310,
+    lng: 77.4161,
     verses: ["18.63"],
-    description: "Khadiravana is one of the twelve forests of Vrindavan, located about 40km northwest of Vrindavan and 10km northeast of Varsana. Named after the khadira (acacia) trees, it is the bhajan place of Lokanatha Goswami. Krishna is said to have sported in this forest with the Gopis.",
-    googleMapsUrl: "https://maps.google.com/?q=27.7012,77.4354",
+    description: "Khadiravana is one of the twelve forests of Vrindavan. Named after the khadira (acacia) trees, it is the bhajan place of Lokanatha Goswami who performed his devotional practices at Kishori Kunda here. Krishna killed the demon Bakasura in this forest. The marker is placed at Kishori Kunda (Radha Braj Kishor Mandir), the most significant landmark in Khadiravana.",
+    googleMapsUrl: "https://www.google.com/maps/place/Kisori+Kunda/@27.7309895,77.4135019,17z",
     images: []
   },
   {
@@ -193,11 +193,11 @@ export const locations = [
     name: "Seshashayi",
     nameDevanagari: "शेषशायी",
     journeyOrder: 16,
-    lat: 27.8600,
-    lng: 77.4200,
+    lat: 27.6763,
+    lng: 77.2659,
     verses: ["18.64"],
-    description: "Seshashayi is the sacred site where a deity of Lord Vishnu reclining on Sesha (the divine serpent) is worshipped. Located about 27km north of Nandgaon in Palwal district, Haryana. Sri Chaitanya Mahaprabhu visited this ancient temple site with great devotion during His Vraj parikrama.",
-    googleMapsUrl: "https://maps.google.com/?q=27.8600,77.4200",
+    description: "Seshashayi is the Sheshashayi Vishnu temple at Ksira Sagara Kunda (milk ocean pond), where Lord Vishnu reclines on the serpent Ananta Sesha with Goddess Lakshmi serving Him. Sri Chaitanya Mahaprabhu visited this temple and was overwhelmed by the beauty of the deity. This is NOT the Rangji Temple in Vrindavan (built 1851, much later than Mahaprabhu's 1515 visit). Per Gaudiya Treasures of Bengal, the original Seshashayi temple is in the village of Sheshashayi, near Hodal, Palwal district, Haryana — 27km north of Nandgaon, 12km north of Kosi Kalan. (Note: Exact location uncertain — marker placed at Ksira Sagara Kunda as the closest available reference on Google Maps.)",
+    googleMapsUrl: "https://www.google.com/maps/place/Ksira+Sagara+Kunda/@27.6753771,77.2650938,18.47z",
     images: []
   },
   {
@@ -205,11 +205,11 @@ export const locations = [
     name: "Khela-tirtha",
     nameDevanagari: "खेला तीर्थ",
     journeyOrder: 17,
-    lat: 27.6000,
-    lng: 77.6900,
+    lat: 27.5856,
+    lng: 77.6968,
     verses: ["18.66"],
-    description: "Khela-tirtha is the sacred bathing place on the Yamuna bank where Lord Krishna and Balarama used to play with the cowherd boys. Approximate location — exact modern site unverified.",
-    googleMapsUrl: "https://maps.google.com/?q=27.6000,77.6900",
+    description: "Khela-tirtha (play-tirtha) is the sacred spot on the Yamuna bank where Lord Krishna and Balarama used to play with the cowherd boys. (Note: Exact location uncertain — marker placed at the Keli Kadamb Tree near Keshi Ghat, Vrindavan. 'Keli' and 'Khela' both mean 'play/sport' in Sanskrit, and the location fits the verse sequence: Khela-tirtha → Bhandiravana → cross Yamuna → Bhadravana.)",
+    googleMapsUrl: "https://www.google.com/maps/place/Keli+Kadamb+Tree,+Vrindavan/@27.5855703,77.6945212,18z",
     images: []
   },
   {
@@ -217,11 +217,11 @@ export const locations = [
     name: "Bhandiravana",
     nameDevanagari: "भाण्डीरवन",
     journeyOrder: 18,
-    lat: 27.6558,
+    lat: 27.6559,
     lng: 77.7075,
     verses: ["18.66"],
-    description: "Bhandiravana is named after the ancient Bhandira banyan tree. Under this tree, Lord Brahma performed the cosmic marriage ceremony of Radha and Krishna. Sri Chaitanya Mahaprabhu embraced the Bhandira tree in ecstasy.",
-    googleMapsUrl: "https://maps.google.com/?q=27.6558,77.7075",
+    description: "Bhandiravana is named after the ancient Bhandira banyan tree. Under this tree, Lord Brahma performed the Gandharva Vivah (celestial wedding) of Radha and Krishna, as described in the Garga Samhita. The Shri Radha Krishna Vivah Sthali temple marks this sacred spot today. The annual Byahula Utsav festival re-enacts this divine wedding on Phulera Dooj. Sri Chaitanya Mahaprabhu embraced the Bhandira tree in ecstasy.",
+    googleMapsUrl: "https://www.google.com/maps/place/Shri+Radha+Krishna+Vivah+Sthali,+Bhandirvan/@27.6535003,77.7037719,17z",
     images: []
   },
   {
@@ -229,11 +229,11 @@ export const locations = [
     name: "Bhadravana",
     nameDevanagari: "भद्रवन",
     journeyOrder: 19,
-    lat: 27.6873,
-    lng: 77.7145,
+    lat: 27.6878,
+    lng: 77.7189,
     verses: ["18.66"],
-    description: "Bhadravana (modern Bhadravan village) is one of the twelve principal forests of Vrindavan, located east of the Yamuna in Mat block, Mathura district. Named after Lord Balabhadra (Balarama), it is the forest where Krishna and Balarama grazed their cows. The Bhadravihari Temple stands here today.",
-    googleMapsUrl: "https://maps.google.com/?q=27.6873,77.7145",
+    description: "Bhadravana (modern Bhadravan village) is one of the twelve principal forests of Vrindavan, located east of the Yamuna in Mat block, Mathura district. Named after Lord Balabhadra (Balarama), it is the forest where Krishna and Balarama grazed their cows. The Sri Bhadrishwara Mahadev and Sri Radha Bhadra Bihari temples stand here today. Sri Chaitanya Mahaprabhu crossed the Yamuna from Bhandiravana to reach here.",
+    googleMapsUrl: "https://www.google.com/maps/place/Bhadravan,+Uttar+Pradesh+281202/@27.6898085,77.6874954,14z",
     images: []
   },
   {
@@ -241,11 +241,11 @@ export const locations = [
     name: "Shrivana",
     nameDevanagari: "श्रीवन",
     journeyOrder: 20,
-    lat: 27.5063,
-    lng: 77.6829,
+    lat: 27.6029,
+    lng: 77.6878,
     verses: ["18.67"],
-    description: "Shrivana (also known as Bilvavana or Belvan) is one of the twelve forests of Vrindavan, located across the Yamuna from Vrindavan in Jehangirpur area. Goddess Lakshmi herself performed austerities here to attain the association of Lord Krishna. The Shree Maha Laxmi Ji Mandir marks this sacred site today.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5063,77.6829",
+    description: "Shrivana (also known as Bilvavana or Belvan) is one of the twelve sacred forests of Braj Mandal. Described in the Bhakti-ratnakara as a beautiful, splendorous forest worshipped by the demigods. Called Shrivana (Sri = Lakshmi) because Goddess Lakshmi performed austerities here to join Krishna's rasa-lila. The Shri Mahalaxmi Temple in Belvan marks this sacred site today.",
+    googleMapsUrl: "https://www.google.com/maps/place/Shri+Mahalaxmi+Temple,+Belvan/@27.6028599,77.6878177,17z",
     images: []
   },
   {
@@ -256,8 +256,8 @@ export const locations = [
     lat: 27.5115,
     lng: 77.7258,
     verses: ["18.67"],
-    description: "Lohavana (modern Lohaban) is one of the twelve forests of Vrindavan, located 5km east of Mathura across the Yamuna. The demon Lohajangha (Lohasura) was killed by Krishna here. The Radha Gopinatha temple and Krishna Kunda mark this sacred site today.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5115,77.7258",
+    description: "Lohavana (modern Lohaban) is one of the twelve sacred forests of Braj Mandal. Known for dense groves where Krishna tended cows. The demon Lohajangha (Lohasura) was killed by Krishna here. Krishna is also said to have rowed the Gopis across the Yamuna on a boat at this spot. The Gopinath Mandir Lohaban (Radha Gopinatha temple) and Krishna Kunda mark this sacred site today.",
+    googleMapsUrl: "https://www.google.com/maps/place/Gopinath+Mandir+Lohaban/@27.5115122,77.7258485,17z",
     images: []
   },
   {
@@ -265,11 +265,11 @@ export const locations = [
     name: "Mahavana / Gokula",
     nameDevanagari: "महावन / गोकुल",
     journeyOrder: 22,
-    lat: 27.4393,
-    lng: 77.7202,
+    lat: 27.4362,
+    lng: 77.7209,
     verses: ["18.67", "18.68"],
     description: "Mahavana, also known as Gokula, is the site of Krishna's very first childhood pastimes — where He was brought immediately after His birth in Mathura and raised by Nanda and Yashoda.",
-    googleMapsUrl: "https://maps.google.com/?q=27.4393,77.7202",
+    googleMapsUrl: "https://www.google.com/maps/place/Gokul,+Mahaban+Bangar,+Mathura,+Uttar+Pradesh+281303",
     images: []
   },
   {
@@ -277,11 +277,11 @@ export const locations = [
     name: "Mathura",
     nameDevanagari: "मथुरा",
     journeyOrder: 23,
-    lat: 27.5028,
-    lng: 77.6731,
+    lat: 27.5054,
+    lng: 77.6696,
     verses: ["18.69"],
-    description: "Mathura is the most sacred city in Vraj Bhumi — the actual birthplace of Lord Sri Krishna, who appeared here in the prison cell of Kamsa's palace to His parents Devaki and Vasudeva.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5028,77.6731",
+    description: "Mathura is the most sacred city in Vraj Bhumi — the actual birthplace of Lord Sri Krishna, who appeared here in the prison cell of Kamsa's palace to His parents Devaki and Vasudeva. Sri Chaitanya Mahaprabhu visited the Shri Krishna Janmasthan (birthplace temple) and stayed at the house of a Sanodiya brahmana.",
+    googleMapsUrl: "https://www.google.com/maps/place/Shri+Krishna+Janmasthan/@27.5054452,77.667034,17z",
     images: []
   },
   {
@@ -289,11 +289,11 @@ export const locations = [
     name: "Akrura-tirtha",
     nameDevanagari: "अक्रूर तीर्थ",
     journeyOrder: 24,
-    lat: 27.5100,
-    lng: 77.6800,
+    lat: 27.5516,
+    lng: 77.6850,
     verses: ["18.70", "18.71", "18.72", "18.73", "18.74", "18.75", "18.76", "18.77", "18.78"],
-    description: "Akrura-tirtha is the sacred bathing ghat on the Yamuna where Akrura had a transcendental vision of Krishna and Balarama within the waters. Sri Chaitanya Mahaprabhu bathed here and was transported into ecstasy.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5100,77.6800",
+    description: "Akrura-tirtha is the sacred bathing ghat on the Yamuna where Akrura stopped his chariot while bringing Krishna and Balarama to Mathura. He bathed in a deep pool and had a transcendental vision of Krishna and Balarama within the waters. Sri Chaitanya Mahaprabhu left Mathura to stay here in solitude, away from the crowds.",
+    googleMapsUrl: "https://www.google.com/maps/place/Akrur+Ji+Temple,+Vrindavan/@27.5515724,77.6824718,17z",
     images: []
   },
   {
@@ -301,11 +301,11 @@ export const locations = [
     name: "Kaliya Lake",
     nameDevanagari: "कालिय दह",
     journeyOrder: 25,
-    lat: 27.5810,
-    lng: 77.6905,
+    lat: 27.5784,
+    lng: 77.6847,
     verses: ["18.71"],
-    description: "Kaliya-daha is the deep pool in the Yamuna river where the multi-hooded serpent Kaliya resided. Lord Krishna dove into the pool, defeated Kaliya, and danced on the serpent's many hoods.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5810,77.6905",
+    description: "Kaliya-daha is the deep pool in the Yamuna river where the multi-hooded serpent Kaliya resided. Lord Krishna dove into the pool, defeated Kaliya, and danced on the serpent's many hoods. Sri Chaitanya Mahaprabhu bathed here during His visit to Vrindavan.",
+    googleMapsUrl: "https://www.google.com/maps/place/Kalia+Ghat,+Vrindavan/@27.5784191,77.6769415,16z",
     images: []
   },
   {
@@ -313,11 +313,11 @@ export const locations = [
     name: "Praskandana",
     nameDevanagari: "प्रस्कन्दन",
     journeyOrder: 26,
-    lat: 27.5750,
-    lng: 77.6950,
+    lat: 27.5803,
+    lng: 77.6874,
     verses: ["18.71"],
-    description: "Praskandana is one of the sacred tirthas along the Yamuna in the Mathura-Vrindavan region, associated with Vedic traditions of ritual bathing and purification.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5750,77.6950",
+    description: "Praskandana (meaning 'perspiration') is the Yamuna ghat near Dvadashaditya Tila in Vrindavan. When Krishna emerged from fighting Kaliya in the Yamuna, He was cold. The twelve Adityas (suns) appeared and warmed Him, causing Him to sweat. His sweat merged with the Yamuna here, forming Praskandana tirtha. (Note: Marker placed at Dvadasha Aditya Tila as Praskandana is immediately adjacent.)",
+    googleMapsUrl: "https://www.google.com/maps/place/Dvadasha+Aditya+Tila/@27.5803046,77.6875839,20.05z",
     images: []
   },
   {
@@ -325,11 +325,11 @@ export const locations = [
     name: "Dvadashaditya",
     nameDevanagari: "द्वादशादित्य",
     journeyOrder: 27,
-    lat: 27.5874,
-    lng: 77.7000,
+    lat: 27.5803,
+    lng: 77.6874,
     verses: ["18.72"],
-    description: "Dvadashaditya (meaning 'twelve suns') is a sacred tirtha in Mathura associated with the worship of the twelve Adityas (solar deities). Ancient tradition holds that the twelve Adityas came here to worship Lord Krishna.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5874,77.7000",
+    description: "Dvadashaditya (meaning 'twelve suns') is the sacred spot where the twelve Adityas (solar deities) appeared simultaneously to warm Lord Krishna after He emerged cold from fighting the serpent Kaliya in the Yamuna. The Dvadasha Aditya Tila marks this site in Vrindavan today.",
+    googleMapsUrl: "https://www.google.com/maps/place/Dvadasha+Aditya+Tila/@27.5803046,77.6875839,20.05z",
     images: []
   },
   {
@@ -337,11 +337,11 @@ export const locations = [
     name: "Keshi-tirtha",
     nameDevanagari: "केशी तीर्थ",
     journeyOrder: 28,
-    lat: 27.5865,
-    lng: 77.7002,
+    lat: 27.5868,
+    lng: 77.6982,
     verses: ["18.72", "18.73", "18.74"],
-    description: "Keshi-tirtha is named after the demon Keshi, who was sent by Kamsa in the form of a wild horse to kill Krishna but was instead killed by the Lord. After this victory, Krishna received the name 'Keshava'.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5865,77.7002",
+    description: "Keshi-tirtha (present-day Keshi Ghat) is named after the demon Keshi, who was sent by Kamsa in the form of a wild horse to kill Krishna but was instead killed by the Lord. After this victory, Krishna received the name 'Keshava'. This is one of the most prominent and beautiful ghats on the Yamuna in Vrindavan.",
+    googleMapsUrl: "https://www.google.com/maps/place/Keshi+Ghat+%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A5%80+%E0%A4%98%E0%A4%BE%E0%A4%9F/@27.5868447,77.6978448,19.52z",
     images: []
   },
   {
@@ -349,11 +349,11 @@ export const locations = [
     name: "Cira-ghata",
     nameDevanagari: "चीर घाट",
     journeyOrder: 29,
-    lat: 27.5840,
-    lng: 77.6990,
+    lat: 27.5855,
+    lng: 77.6965,
     verses: ["18.75"],
-    description: "Cira-ghata (the 'ghat of stolen garments') is the famous bathing place on the Yamuna where Lord Krishna stole the garments of the young Gopis who were bathing.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5840,77.6990",
+    description: "Cira-ghata (present-day Cheer Ghat, the 'ghat of stolen garments') is the famous bathing place on the Yamuna where Lord Krishna stole the garments of the young Gopis who were bathing. The ancient Keli Kadamb tree where Krishna hung the clothes still stands here.",
+    googleMapsUrl: "https://www.google.com/maps/place/Cheer+Ghat,+Vrindavan/@27.5855364,77.6939349,17z",
     images: []
   },
   {
@@ -361,11 +361,11 @@ export const locations = [
     name: "Tentuli-tala (Amli-tala)",
     nameDevanagari: "तेँतुली तल",
     journeyOrder: 30,
-    lat: 27.5845,
-    lng: 77.7005,
+    lat: 27.5834,
+    lng: 77.6943,
     verses: ["18.75", "18.76", "18.77", "18.78"],
-    description: "Tentuli-tala, also known as Amli-tala, is named after the tamarind tree under which Lord Krishna used to sit and play His flute, calling the Gopis to the Rasa dance.",
-    googleMapsUrl: "https://maps.google.com/?q=27.5845,77.7005",
+    description: "Tentuli-tala (present-day Imlitala Temple), also known as Amli-tala, is named after the tamarind (imli/tentuli) tree under which Lord Krishna sat and meditated on Radha Rani during the Maharasa Leela. Sri Chaitanya Mahaprabhu used to sit under this very tamarind tree during His stay in Vrindavan.",
+    googleMapsUrl: "https://www.google.com/maps/place/Imlitala+Temple,+Vrindavan/@27.5833869,77.6917254,17z",
     images: []
   },
   {
@@ -373,11 +373,11 @@ export const locations = [
     name: "Soro-kshetra",
     nameDevanagari: "सोरो क्षेत्र",
     journeyOrder: 31,
-    lat: 27.8850,
-    lng: 78.7500,
+    lat: 27.8867,
+    lng: 78.7448,
     verses: ["18.214"],
-    description: "Soro-kshetra is a sacred pilgrimage site located beyond the main Vraj Bhumi region. Sri Chaitanya Mahaprabhu visited this place on His way back from Vraj Bhumi.",
-    googleMapsUrl: "https://maps.google.com/?q=27.8850,78.7500",
+    description: "Soro-kshetra (present-day Soron, also called Shukar Kshetra) is a sacred pilgrimage town in Kasganj district, Uttar Pradesh, on the banks of the Ganges. Sri Chaitanya Mahaprabhu bathed in the Ganges here on His way back from Vraj Bhumi and then started for Prayaga along the Ganges bank.",
+    googleMapsUrl: "https://www.google.com/maps/place/Soron,+Uttar+Pradesh+207403/@27.8863094,78.726922,14z",
     images: []
   },
   {
@@ -385,11 +385,11 @@ export const locations = [
     name: "Prayaga (Allahabad)",
     nameDevanagari: "प्रयाग",
     journeyOrder: 32,
-    lat: 25.4275,
-    lng: 81.8826,
+    lat: 25.4250,
+    lng: 81.8857,
     verses: ["18.214", "18.215", "18.216", "18.217", "18.218", "18.219", "18.220", "18.221", "18.222"],
     description: "Prayaga (modern Prayagraj) is located at the Triveni Sangam — the confluence of the Ganga, Yamuna, and invisible Sarasvati rivers. Sri Chaitanya Mahaprabhu concluded this leg of His pilgrimage here, where He met Rupa Goswami and instructed him for ten days.",
-    googleMapsUrl: "https://maps.google.com/?q=25.4275,81.8826",
+    googleMapsUrl: "https://www.google.com/maps/place/Triveni+sangam+prayagraj/@25.4249815,81.8857253,17z",
     images: []
   }
 ];

@@ -46,21 +46,21 @@ export default function BottomPanel({ selectedVerseId, setSelectedVerseId, setSe
   const badgeClass = BADGE_CLASS[verse.verseType] || BADGE_CLASS.narrative
 
   return (
-    <div className="verse-reader px-6 py-3 flex gap-4 items-start" aria-live="polite">
+    <div className="verse-reader px-6 py-3 flex gap-4 items-center" aria-live="polite">
       {/* Prev button */}
       <button
         onClick={goPrev}
         disabled={verseIndex <= 0}
-        className="font-crimson font-semibold text-sm px-3 py-1 rounded bg-saffron/10 text-saffron hover:bg-saffron/20 border border-saffron/30 disabled:opacity-30 disabled:cursor-not-allowed transition-colors shrink-0 mt-2"
+        className="font-crimson font-semibold text-sm px-3 py-1 rounded bg-saffron/10 text-saffron hover:bg-saffron/20 border border-saffron/30 disabled:opacity-30 disabled:cursor-not-allowed transition-colors shrink-0"
         aria-label="Previous verse"
       >
         Prev
       </button>
 
-      {/* Verse content */}
-      <div className="verse-reader-content flex-1 min-w-0 overflow-y-auto" key={verse.id}>
+      {/* Verse content — centered */}
+      <div className="verse-reader-content flex-1 min-w-0 overflow-y-auto text-center" key={verse.id}>
         {/* Header: verse number + type badge */}
-        <div className="flex items-center gap-2 mb-1">
+        <div className="flex items-center justify-center gap-2 mb-1">
           <span className="font-crimson text-xl font-semibold text-brown-heading">
             CC Madhya {verse.number}
           </span>
@@ -88,7 +88,7 @@ export default function BottomPanel({ selectedVerseId, setSelectedVerseId, setSe
       <button
         onClick={goNext}
         disabled={verseIndex >= verses.length - 1}
-        className="font-crimson font-semibold text-sm px-3 py-1 rounded bg-saffron/10 text-saffron hover:bg-saffron/20 border border-saffron/30 disabled:opacity-30 disabled:cursor-not-allowed transition-colors shrink-0 mt-2"
+        className="font-crimson font-semibold text-sm px-3 py-1 rounded bg-saffron/10 text-saffron hover:bg-saffron/20 border border-saffron/30 disabled:opacity-30 disabled:cursor-not-allowed transition-colors shrink-0"
         aria-label="Next verse"
       >
         Next
